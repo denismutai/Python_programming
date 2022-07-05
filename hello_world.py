@@ -18,7 +18,30 @@ print ("Denis Kibichiy Mutai")
 
 #print "Denis Kibichiy"
 # experiment as much as you can. Change double quotes to single quotes, use multiple print() functions on the same line, and then on different lines. See what happens.
-
+#mAKING USE OF THE PRINT FUNCTION
 print ('denis')
 print("Denis Kibichiy")
 print ("dENSIS")
+
+#MAKING IDENTIFIERS OR VARIABLES IN PYTHON
+#rules of variables- vaviables are case sensitive, variables can begin with alphabet or an underscore but may not begin with a special characters or numbers.  
+#Identifiers may not share a name with reserved keywords
+#all other characters except the first one maybe a uppercase or lowercase alphabet, a number, undescore or digit but may not have any whitespace or special character.
+#There is no requirement to declare variables in python, when we assign a value using (=) operator, the variable is declared automatically.
+# name_1="Denis"
+# name_2="Kibichiy"
+# country="Kenya"
+# currentYear=2022
+# birthYear=1998
+# welcomeMessage="I am a passionate software engineer from"
+# print(name_1 + '' + name_2)
+
+x=3
+y=4
+print(x+y)
+x=34+20
+print (10+x)
+
+#Dataty
+
+#Object Reference- 
